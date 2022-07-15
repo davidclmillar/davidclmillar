@@ -2,7 +2,7 @@
 
 ##### Solar Physics
 
-- ~~~ wiggles ~~~ in the Sun's atmosphere
+\~\~\~ wiggles \~\~\~ in the Sun's atmosphere
 
 <!---
 davidclmillar/davidclmillar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
